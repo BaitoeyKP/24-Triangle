@@ -1,1 +1,1 @@
-#24-Triangle
+24-Triangle
